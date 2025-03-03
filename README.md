@@ -21,3 +21,4 @@ Thanks for helping me develop this project
  - [NeuralNine](https://www.youtube.com/@NeuralNine) @ Youtube
  - [Stack Overflow](https://stackoverflow.com/questions)
  - [TensorFlow](https://www.tensorflow.org/)
+ - [Stooq](https://stooq.com/)
